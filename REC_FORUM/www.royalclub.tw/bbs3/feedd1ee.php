@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=273" />
+
+<title>Royal English Club-英文讀書會</title>
+<subtitle>輕鬆學習! 放鬆學習! 結交朋友!</subtitle>
+<link href="http://www.royalclub.tw/bbs3/index.php" />
+<updated>2019-04-12T15:47:15+08:00</updated>
+
+<author><name><![CDATA[Royal English Club-英文讀書會]]></name></author>
+<id>http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=273</id>
+<entry>
+<author><name><![CDATA[morris]]></name></author>
+<updated>2019-04-12T15:47:15+08:00</updated>
+<published>2019-04-12T15:47:15+08:00</published>
+<id>http://www.royalclub.tw/bbs3/viewtopic.php?t=273&amp;p=289#p289</id>
+<link href="http://www.royalclub.tw/bbs3/viewtopic.php?t=273&amp;p=289#p289"/>
+<title type="html"><![CDATA[4/18(Thu.)  Local English vs Standard English/Posting selfies on social media can be bad (host:Wil)]]></title>
+
+<content type="html" xml:base="http://www.royalclub.tw/bbs3/viewtopic.php?t=273&amp;p=289#p289"><![CDATA[
+Session 1: Local English vs Standard English<br /> <br />Please Watch youtube video -- <!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=Ge7c7otG2mk">https://www.youtube.com/watch?v=Ge7c7otG2mk</a><!-- m --><br /> <br />Discussion<br />1.In the video, the speaker, Marianna Pascal, says how well somebody communicates in English has little to do with their language level but a lot to do with their attitude towards English. Do you agree or disagree with her statement, and why?<br />2.Some people get very embarrassed when they have to speak in a foreign language. Does this happen to you? What could be the causes for such embarrassment?<br />3.Which of the four language skills do you find easiest and most difficult in English: Listening, speaking, reading or writing?<br />4.Do you like the idea of making English an official language of Taiwan? Why or why not?<br />5.Which of the following do you think would be the best system of practising English listening and why:<br />a.Watching a video in English without subtitles;<br />b.watching a video in English with English subtitles;<br />c.watching a video in English with subtitles in Chinese;<br />d.watching a video in Chinese with subtitles in English?<br />6.Have you ever tried reading English books for pleasure? What did you read?<br />7.What do you think about reading out loud in English?<br /> <br />Session 2: Posting selfies on social media can be bad<br /><br />Posting too many selfies can lead to narcissism. This is selfishness and the belief you are better than you are. You think you are better than everyone else. Researchers found that people who used social media sites a lot showed a 25 percent rise in narcissism in just four months. The researchers studied people aged 18 to 34 and how their personality changed. Posting selfies seemed to increase levels of narcissism; sending text messages didn't.<br />A researcher said there were links between narcissism and the use of selfies. He said there wasn't much research on this topic. The results of his study suggest that posting selfies can increase narcissism. He said that &quot;about 20 percent of people may be at risk of developing&quot; narcissism. They want attention and likes from other people after they post a selfie. They want to show others how their life is better.<br /> <br />Discussion<br /><br />1.What do you think of selfies? How often do you upload selfies? <br />2.How often do you check your Line or Facebook page?<br />3.Does your personality change when you are on social media? <br />4.Do you care about how many likes your posts get?<br />5.Have you had any bad experiences on social media?<br />6.What are the bad things about social media? <br />7.What are the best things to post on social media? <br />8.Has social media made your life better? If yes, in what way?<br />9.How could social media sites make their platforms better?<br /><br />Agenda<br />7:00 p.m. --7:30 p.m. free talk <br />7:30 p.m. --8:10 p.m. first topic discussion <br />8:10 p.m. --8:20 p.m. Presentation <br />8:20 p.m.-- 8:40 p.m. Sharing time : articles &amp; other experiences. <br />8:40 p.m--9.:15 p.m. second topic discussion <br />9:15 p.m. -- 9:30 p.m. Presentation<br />speaker time : 2 minutes for each speaker<br />host time : 3 minutes<br /><br />The meeting place of Thursday:<br />丹堤咖啡寶慶店：台北市延平南路107號2F (上樓右邊第一區塊)<br />捷運資訊： 近台北捷運–西門站 (4號出口步行約2分鐘，康是美隔壁)<br />丹堤低消: NT$80元<br />最自由的全英文會話聚會,前三次不用交會費,加入會員終生會費NT$500，帶著開放與熱情來學英文<p>Statistics: Posted by <a href="http://www.royalclub.tw/bbs3/memberlist.php?mode=viewprofile&amp;u=13721">morris</a> — Fri Apr 12, 2019 3:47 pm</p><hr />
+]]></content>
+</entry>
+</feed>

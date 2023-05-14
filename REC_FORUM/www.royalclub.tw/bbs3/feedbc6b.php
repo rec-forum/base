@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=247" />
+
+<title>Royal English Club-英文讀書會</title>
+<subtitle>輕鬆學習! 放鬆學習! 結交朋友!</subtitle>
+<link href="http://www.royalclub.tw/bbs3/index.php" />
+<updated>2019-01-12T12:14:05+08:00</updated>
+
+<author><name><![CDATA[Royal English Club-英文讀書會]]></name></author>
+<id>http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=247</id>
+<entry>
+<author><name><![CDATA[morris]]></name></author>
+<updated>2019-01-12T12:14:05+08:00</updated>
+<published>2019-01-12T12:14:05+08:00</published>
+<id>http://www.royalclub.tw/bbs3/viewtopic.php?t=247&amp;p=263#p263</id>
+<link href="http://www.royalclub.tw/bbs3/viewtopic.php?t=247&amp;p=263#p263"/>
+<title type="html"><![CDATA[1/ 17 (Thu.) Kaohsiung City Mayor / Gout (Host: Howard)]]></title>
+
+<content type="html" xml:base="http://www.royalclub.tw/bbs3/viewtopic.php?t=247&amp;p=263#p263"><![CDATA[
+Session I  Kaohsiung  mayor<br />Questions for Discussion:<br /><br />Q1.<br /><a href="https://asia.nikkei.com/Politics/Taiwan-s-new-CEO-mayor-plays-up-economic-goals-over-China-ties" class="postlink">https://asia.nikkei.com/Politics/Taiwan-s-new-CEO-mayor-plays-up-economic-goals-over-China-ties</a><br />  Nowadays small vendors and businessmen in Kaohsiung begin to  feel thriving. Do you think it's just a flash in the pan? Or it's going to be prosperous owing to dark horse mayor's attitude to striving to economic instead of striving in politics ? Or other scenarios you figure out ? <br />Q2. Mayor Han drew political check to develop KS to richest city in Taiwan.<br />Can he fulfill his promise ? Why or why not ?<br />Q3. Why can 韓國瑜 win 150000 more votes than 陳其邁 with so few resources in diehard stronghold (KS city) ?<br />Q4.<br /><a href="https://www.taiwannews.com.tw/en/news/3608879" class="postlink">https://www.taiwannews.com.tw/en/news/3608879</a><br /> Since KS will become bilingual city, Taipei as a capital and leader in Taiwan has to surpass or at least run neck and neck with it.  How will this competitiveness  affect students, local /native English-speaking teachers,parents ,officials,  citizens and English education industry?<br />___________________________________<br />Session II<br />Gout<br />Its nickname is &quot; disease of kings&quot;. Hence Louis XIV in France, 忽必烈 in Yuan Dynasty and Benjamin Franklin ( a founding father of US) suffered from it.<br />In 2003 the prevalence rate of gout in Taiwan was 3% .It's about 10 times more than USA and Europe.<br /><br />Gout is partly genetic, contributing to about 60% of variability in uric acid level.The SLC2A9, SLC22A12, and ABCG2 genes have been found to be commonly associated with gout and variations in them can approximately double the risk.<span style="color: #FF4000">And authority concerned in Taiwan confirmed<br />the ABCG2  is Taiwanese gout patients' pathogenic prime gene.</span><br />(red font source from: <a href="https://udn.com/news/story/11322/3207434" class="postlink">https://udn.com/news/story/11322/3207434</a> )<br /><br />Q1. <a href="http://www.businesstoday.com.tw/article/category/80731/post/201711130008" class="postlink">http://www.businesstoday.com.tw/article/category/80731/post/201711130008</a><br />From 許效舜's case we can know a serious gout patient's struggling process inside out . What's the best mindset to face gout?<br />Q2.<br /><a href="https://www.youtube.com/watch?v=chEdNZyblqY" class="postlink">https://www.youtube.com/watch?v=chEdNZyblqY</a><br />For centuries, diet was considered the main risk factor for gout, what foods should gout patients avoid/ consume?<br />Q3.<br /><a href="https://www.everydayhealth.com/gout/genetics-not-diet-likely-cause-gout/" class="postlink">https://www.everydayhealth.com/gout/genetics-not-diet-likely-cause-gout/</a><br />But the new study give us new thought about gout. What inspiration do you get from this above article?<br />Q4.<br /> Please introduce us your yummy but gout friendly recipes.<br /><br /><br />Agenda<br />7:00-7:25 Greetings and free talk<br />7:25-7:30 Opening remarks/ Newcomers self-introduction/ Grouping<br />(Session I)<br />7:30 ~ 8:10pm discussion session (40 mins)<br />8:10 ~ 8:25pm summarization (15 mins)<br />8:25 ~ 8:30pm Regrouping<br />(Session II)<br />8:30 ~9:10pm discussion session (40 mins)<br />9:10 ~9:25pm summarization (15 mins)<br />9:25 ~9:30pm Concluding remarks/feedback from newcomers<br /><br />The meeting place of Thursday:<br />丹堤咖啡寶慶店：台北市延平南路107號2F (上樓右邊第一區塊)<br />捷運資訊： 近台北捷運–西門站 (4號出口步行約2分鐘，康是美隔壁)<br />丹堤低消: NT$80元<br />最自由的全英文會話聚會,前三次不用交會費,加入會員終生會費NT$500，帶著開放與熱情來學英文<p>Statistics: Posted by <a href="http://www.royalclub.tw/bbs3/memberlist.php?mode=viewprofile&amp;u=13721">morris</a> — Sat Jan 12, 2019 12:14 pm</p><hr />
+]]></content>
+</entry>
+</feed>
