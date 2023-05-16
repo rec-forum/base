@@ -1,5 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
 .royalclub.tw	TRUE	/	FALSE	1999999999	phpbb3_71yss_u	1
-.royalclub.tw	TRUE	/	FALSE	1999999999	phpbb3_71yss_sid	26a2274b79ef2ab8be0813b6e6e89915
+.royalclub.tw	TRUE	/	FALSE	1999999999	phpbb3_71yss_sid	db25550c72854578cb53ba86598c166f
 
