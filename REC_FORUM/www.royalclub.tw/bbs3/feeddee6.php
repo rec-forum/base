@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=688" />
+
+<title>Royal English Club-英文讀書會</title>
+<subtitle>輕鬆學習! 放鬆學習! 結交朋友!</subtitle>
+<link href="http://www.royalclub.tw/bbs3/index.php" />
+<updated>2023-01-06T11:07:51+08:00</updated>
+
+<author><name><![CDATA[Royal English Club-英文讀書會]]></name></author>
+<id>http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=688</id>
+<entry>
+<author><name><![CDATA[zoe]]></name></author>
+<updated>2023-01-06T11:07:51+08:00</updated>
+<published>2023-01-06T11:07:51+08:00</published>
+<id>http://www.royalclub.tw/bbs3/viewtopic.php?t=688&amp;p=716#p716</id>
+<link href="http://www.royalclub.tw/bbs3/viewtopic.php?t=688&amp;p=716#p716"/>
+<title type="html"><![CDATA[01/12 (Thu) 6 Ways to live in the moment / Impromptu speech (Host: William)]]></title>
+
+<content type="html" xml:base="http://www.royalclub.tw/bbs3/viewtopic.php?t=688&amp;p=716#p716"><![CDATA[
+1/12 (Thu) 6 Ways to live in the movement/ Impromptu speech Host: (William)<br /><br />Agenda:<br />7:00-7:10 pm Opening Remarks<br />7:05-7:40 pm Session 1: Group Discussion<br />7:40-8:00 pm Individual Presentation<br />8:00-8:05 pm Break<br />8:05-8:40 pm Session 2: Group Discussion<br />8:40-9:00 pm Individual Presentation<br /><br />We will hold a zoom meeting only.<br /><br />Zoom meeting: Please click the link below<br /><br /><!-- m --><a class="postlink" href="https://zoomtw.zoom.us/j/92987266213?pw">https://zoomtw.zoom.us/j/92987266213?pw</a><!-- m --> ...<br />Meeting ID:929 8726 6213<br />Password:112233<br /><br />--------------------------------------------<br /><br /><br /><span style="font-size: 150%; line-height: normal"><span style="font-weight: bold">Session 1</span></span><br /><br /><span style="font-size: 120%; line-height: normal">6 WAYS TO LIVE IN THE MOMENT<br />Author: E.C. LaMeaux<br /><br />The idea of “living in the moment” has inspired a lot of motivational posters and T-shirts, but it’s really an important concept. You’ve probably heard several variations: Live like there’s no tomorrow. Live as if you’ll die today. Living in the moment takes practice, but when you learn how to live this way, you will lead a fuller life and appreciate the beauty in every activity every second of the day. Learn how to live in the moment with these six ideas.<br />1. FOCUS ON THE NOW<br />2. PAY ATTENTION TO THE SMALL THINGS<br />3. SMILE<br />4. PERFORM RANDOM ACTS OF KINDNESS<br />5. GIVE THANKS<br />6. DON’T WORRY<br />Instead, if circumstances are troubling, focus on ways you can solve an existing problem now or otherwise improve the current moment. Spending time focused on what may happen down the line robs you of fully experiencing what is happening now. Life in the moment moves quickly — don’t miss it.<br />SHARE<br />ALSO IN BLOG<br />BODY PEACE &amp; PERSONAL EMPOWERMENT<br />From the moment we’re born and take our first breath, we’re being socialized or learning what it means to be a member of the culture we were born into. We begin learning through both subtle and overt cues, messages, observations and images what the values and norms of that culture are in that time and place. We learn what is acceptable, desirable, worthy, valuable… and what isn’t.<br />YOGA FOR SWIMMERS: POSES FOR STRENGTH AND MOBILITY<br />Micha Shaw, former pro swimmer, walks us through five yoga poses that help athletes who perform repeated movements day in and day out, to not only increase flexibility, mobility and strength, but also bring awareness to movement patterns, enhance performance and stay injury-free.<br />AMANDA HUGGINS: FROM ANXIETY TO EMPOWERMENT<br />Amanda Huggins, anxiety coach and Gaiam influencer, tells the story of how she transformed her anxiety into empowerment and offers journaling prompts to begin the process of understanding your relationship with anxiety.</span><br /><br />Questions:<br />1. What is the best way to live in the moment ?<br />2. Why do we need to live in the moment ?<br />3. Why do we get stuck in the past  ?<br />4. How can I be more present in the moment ?<br />5. Are you having a hard time living in the moment ?<br /><br /><br /><span style="font-size: 150%; line-height: normal"><span style="font-weight: bold">session II</span></span><br />Impromptu speech<br />Each person prepares two questions for the sub-group discussion. <br />In the group presentation members take turns to ask and answer questions. <br />The speaking time is two minutes.<br /><br /><br /><br />P.S.<br />1.參加三次(含實體及線上會議)後，只要繳交1,000元(學生500元)，即可成為ROYAL終身會員!<br />2.請帶著開放的心與熱情來參加全英文會話聚會!<p>Statistics: Posted by <a href="http://www.royalclub.tw/bbs3/memberlist.php?mode=viewprofile&amp;u=55735">zoe</a> — Fri Jan 06, 2023 11:07 am</p><hr />
+]]></content>
+</entry>
+</feed>

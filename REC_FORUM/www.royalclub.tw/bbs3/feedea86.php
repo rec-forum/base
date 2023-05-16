@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.royalclub.tw/bbs3/feed.php?f=4&amp;t=544" />
+
+<title>Royal English Club-英文讀書會</title>
+<subtitle>輕鬆學習! 放鬆學習! 結交朋友!</subtitle>
+<link href="http://www.royalclub.tw/bbs3/index.php" />
+<updated>2021-09-24T09:43:46+08:00</updated>
+
+<author><name><![CDATA[Royal English Club-英文讀書會]]></name></author>
+<id>http://www.royalclub.tw/bbs3/feed.php?f=4&amp;t=544</id>
+<entry>
+<author><name><![CDATA[Danny Lin]]></name></author>
+<updated>2021-09-24T09:43:46+08:00</updated>
+<published>2021-09-24T09:43:46+08:00</published>
+<id>http://www.royalclub.tw/bbs3/viewtopic.php?t=544&amp;p=567#p567</id>
+<link href="http://www.royalclub.tw/bbs3/viewtopic.php?t=544&amp;p=567#p567"/>
+<title type="html"><![CDATA[09/25(Sat.) -What does it mean to be a social butterfly?/What is 'mukbang'? Inside the viral Korean food...(Nora)]]></title>
+
+<content type="html" xml:base="http://www.royalclub.tw/bbs3/viewtopic.php?t=544&amp;p=567#p567"><![CDATA[
+09/25(Sat.) -What does it mean to be a social butterfly?/What is 'mukbang'? Inside the viral Korean food YouTube trend(Nora)<br /><br /><span style="color: #FF0000">There is no on-site meeting during the pandemic of COVID-19.<br /><br />加入 Zoom 會議<br /><!-- m --><a class="postlink" href="https://zoomtw.zoom.us/j/92987266213?pw">https://zoomtw.zoom.us/j/92987266213?pw</a><!-- m --> ... NKSU5MQT09<br /><br />會議 ID：929 8726 6213<br />密碼：112233<br /><br />Agenda:<br />7:00-7:10 pm Opening Remarks<br />7:10-7:40 pm Session 1 Group Discussion<br />7:40-8:00 pm Presentation 1<br />8:00-8:10 pm Break<br />8:10-8:40: Session 2 Group Discussion<br />8:40-9:00 pm Presentation 2<br /><br />At the presentation, the time limit is 1-2 minutes for each speaker.</span><br />-----------------------------------------------------------------------------<br />Article 1: What It Really Means If You're A Social Butterfly &amp; How To Thrive<br /><!-- m --><a class="postlink" href="https://www.mindbodygreen.com/articles/social-butterfly">https://www.mindbodygreen.com/articles/social-butterfly</a><!-- m --><br /><br />For social butterflies, &quot;booked and busy&quot; is a lifestyle—but being a socialite has its difficulties. Think you fit into this extroverted personality type? Here are some telltale signs you're a social butterfly and tips on how to get your fill of socializing while maintaining healthy boundaries and avoiding burnout.<br /><br />-What does it mean to be a social butterfly?<br />A &quot;social butterfly&quot; describes someone who's socially oriented, outgoing, and often very charismatic and charming. If someone's called you a social butterfly before, it's probably because you've always got plans lined up and/or you have a way with people that others notice.<br /><br />1. What do you think about being a social butterfly?<br />2. If you are a social butterfly, how do you overcome challenges?<br />3. How do you get along with a social butterfly?<br />4. Do you suffer from social anxiety? And what do you do?<br />5. What do you do to help new friends get used to the club?<br /><br /><br />Article 2:What is 'mukbang'? Inside the viral Korean food YouTube trend<br /><!-- m --><a class="postlink" href="https://www.today.com/food/what-mukbang-inside-viral-korean-food-phenomenon-t123251">https://www.today.com/food/what-mukbang ... on-t123251</a><!-- m --><br /><br />In Korea, and now the U.S., people are watching strangers eat large quantities of food on YouTube. And many of the top stars are earning big bucks each month.<br /><br />For years, people have been heading to YouTube to spend upwards of 60 minutes at a time watching strangers consume 4,000 or more calories in one sitting. Not only that, many of these viewers are paying to indulge in this binge-viewing, binge-eating privilege. Today, this viral trend is only growing in the U.S.<br /><br />1. Have you ever watched any mukbang videos?<br />2. Do you like it ? And why do you like it?<br />3. It is said that mukbang is focused much more on the companionship of sharing a meal. What do you think about it?<br />4. It is said that mukbang can help people to escape from a sense of guilt and stress of being fat. What do you think about it?<br />5. People earn money by making eating shows. Would you like to try mukbang as well?<br /><br /><span style="color: #0000FF">P.S.<br />1.參加三次後，只要繳交1,000元(學生500元)，即可成為ROYAL終身會員!<br />2.請帶著開放與熱情來參加自由的全英文會話聚會~</span><p>Statistics: Posted by <a href="http://www.royalclub.tw/bbs3/memberlist.php?mode=viewprofile&amp;u=12531">Danny Lin</a> — Fri Sep 24, 2021 9:43 am</p><hr />
+]]></content>
+</entry>
+</feed>

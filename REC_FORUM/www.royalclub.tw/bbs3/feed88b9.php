@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=401" />
+
+<title>Royal English Club-英文讀書會</title>
+<subtitle>輕鬆學習! 放鬆學習! 結交朋友!</subtitle>
+<link href="http://www.royalclub.tw/bbs3/index.php" />
+<updated>2020-06-12T10:53:18+08:00</updated>
+
+<author><name><![CDATA[Royal English Club-英文讀書會]]></name></author>
+<id>http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=401</id>
+<entry>
+<author><name><![CDATA[Michael]]></name></author>
+<updated>2020-06-12T10:53:18+08:00</updated>
+<published>2020-06-12T10:53:18+08:00</published>
+<id>http://www.royalclub.tw/bbs3/viewtopic.php?t=401&amp;p=418#p418</id>
+<link href="http://www.royalclub.tw/bbs3/viewtopic.php?t=401&amp;p=418#p418"/>
+<title type="html"><![CDATA[6/18 (Thu) Japan holds secret to living longer &amp; can prove it / 5 summer books &amp; other things to do at home (Host:Cammy)]]></title>
+
+<content type="html" xml:base="http://www.royalclub.tw/bbs3/viewtopic.php?t=401&amp;p=418#p418"><![CDATA[
+<span style="color: #FF0000">*** Removal Notice ***<br />Thursday gathering of Royal Club is relocated to Ikari 怡客咖啡, 台北市衡陽路116號</span><br /><br />Session I:<br />Japan holds the secret to living longer, and they can prove it<br /><!-- m --><a class="postlink" href="https://www.trafalgar.com/real-word/lifespans-japanese-secrets-living-longer/">https://www.trafalgar.com/real-word/lif ... ng-longer/</a><!-- m --><br /><br />Extended reading:<br />Japanese Doctor Unfolds AMAZING Secrets to Live a Long Life<br /><!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=MqCL4hY4wZE&amp;feature=youtu.be">https://www.youtube.com/watch?v=MqCL4hY ... e=youtu.be</a><!-- m --><br />World's oldest person: Kane Tanaka <br /><!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=QZ4K_aBZGQk&amp;feature=youtu.be">https://www.youtube.com/watch?v=QZ4K_aB ... e=youtu.be</a><!-- m --><br /><br />How can we live longer? You’ll find the answer to this age-old question (pun intended) in Japan. The Japanese life expectancy is the world’s highest, at 87.32 years for women and 81.25 years for men. The average lifespan of the Japanese is the highest it has ever been, and they keep getting older. In 2019, the number of Japanese aged 90 reached 2.31 million, including over 71,000 centenarians. So have the Japanese found the fountain of youth? We delve into Japan’s top secrets to good health and longevity.<br /><br />Questions:<br />1. Do you think to live over 100-year-old? Share your thought and feeling about this article. Which part is impressed you most?<br />2. How do you measure whether a happy life is a long life, a meaningful value or others?<br />3. According to your observation, what is different between Taiwanese and Japanese diet or lifestyle?<br />4. In the interview video of the oldest 117-year-old Tanaka in the world, “when was the happiest moment in life? Right Now! “. Please share your feelings or touches with table members. <br />5. This article provides some tips for long life. Please share top three tips which you want to practice it.<br /><br />----------------------------------------------------------------------------------------------------<br /><br />Session II:<br />5 summer books and other things to do at home<br /><!-- m --><a class="postlink" href="https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2020">https://www.gatesnotes.com/About-Bill-G ... Books-2020</a><!-- m --><br /><br />Most of my conversations and meetings these days are about COVID-19 and how we can stem the tide. But I’m also often asked about what I am reading and watching—either because people want to learn more about pandemics, or because they are looking for a distraction. I’m always happy to talk about great books and TV shows (and to hear what other people are doing, since I’m usually in the market for recommendations).<br />So, in addition to the five new book reviews I always write for my summer book list, I included a number of other recommendations. I hope you find something that catches your interest.<br /><br />Questions:<br />1. After the covid-19 outbreak, what activities will you arrange this summer?<br />2. Do you usually have the habit of reading? Usually, how many books do you read in a month? Share your motivation or purpose for reading<br />3. What kinds of books do you like? (Ex: novels, science, business, health…) Please share a book you like and how this book has affected and changed you?<br />4. Share any TV shows, series or movies impressed you on weekends?<p>Statistics: Posted by <a href="http://www.royalclub.tw/bbs3/memberlist.php?mode=viewprofile&amp;u=25437">Michael</a> — Fri Jun 12, 2020 10:53 am</p><hr />
+]]></content>
+</entry>
+</feed>

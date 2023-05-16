@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.royalclub.tw/bbs3/feed.php?f=4&amp;t=606" />
+
+<title>Royal English Club-英文讀書會</title>
+<subtitle>輕鬆學習! 放鬆學習! 結交朋友!</subtitle>
+<link href="http://www.royalclub.tw/bbs3/index.php" />
+<updated>2022-04-06T17:23:37+08:00</updated>
+
+<author><name><![CDATA[Royal English Club-英文讀書會]]></name></author>
+<id>http://www.royalclub.tw/bbs3/feed.php?f=4&amp;t=606</id>
+<entry>
+<author><name><![CDATA[Ellen Lu]]></name></author>
+<updated>2022-04-06T17:23:37+08:00</updated>
+<published>2022-04-06T17:23:37+08:00</published>
+<id>http://www.royalclub.tw/bbs3/viewtopic.php?t=606&amp;p=629#p629</id>
+<link href="http://www.royalclub.tw/bbs3/viewtopic.php?t=606&amp;p=629#p629"/>
+<title type="html"><![CDATA[4/10(Sun.) I got 99 problems... palsy is just one / Inside the mind of a master procrastinator (Host: Gal)]]></title>
+
+<content type="html" xml:base="http://www.royalclub.tw/bbs3/viewtopic.php?t=606&amp;p=629#p629"><![CDATA[
+4/10(Sun.) I got 99 problems... palsy is just one / Inside the mind of a master procrastinator (Host: Gal)<br /><br />Agenda:<br />7:00-7:05 pm Opening Remarks<br />7:05-7:40 pm Session 1: Group Discussion<br />7:40-8:00 pm Individual Presentation<br />8:00-8:05 pm Break<br />8:05-8:35 pm Session 2: Group Discussion<br />8:35-9:00 pm Debate<br /><br />We will hold a zoom meeting only.<br /><br />Zoom meeting: Please click the link below<br /><br /><!-- m --><a class="postlink" href="https://zoomtw.zoom.us/j/92987266213?pw">https://zoomtw.zoom.us/j/92987266213?pw</a><!-- m --> ...<br />Meeting ID:929 8726 6213<br />Password:112233<br /><br />--------------------------------------------<br /><br />Session I : I got 99 problems... palsy is just one<br /><br /><!-- m --><a class="postlink" href="https://tw.voicetube.com/videos/11960/1901664">https://tw.voicetube.com/videos/11960/1901664</a><!-- m --><br /><br />I got 99 problems... palsy is just one | Maysoon Zayid<br />&quot;I have cerebral palsy. I shake all the time,&quot; Maysoon Zayid announces at the beginning of this exhilarating, hilarious talk. (Really, it's hilarious.) &quot;I'm like Shakira meets Muhammad Ali.&quot; With grace and wit, the Arab-American comedian takes us on a whistle-stop tour of her adventures as an actress, stand-up comic, philanthropist and advocate for the disabled.<br /><br />Questions:<br />1.The words&quot;I got 99 problems... palsy is just one.&quot; explains the problem that we can easily see only the appearance, are you also troubled by your own appearance?<br /><br />2.Speakers mentioned how her parents influenced her, such as &quot;my parents didn't believe in &quot;can't&quot; ,&quot;my father's mantra was &quot;you can do it, yes you can can.&quot;, &quot;a silver of the chances my parents gave me.&quot;<br />Do you have any idea how your parents or benefactor have influenced you?<br /><br />3.Maysoon said &quot;my crooked journey has taken me to some very spectacular places.&quot;<br />Do you remember any past experiences that have made you who you are now?<br /><br />4.Speakers spread positive energy all the time. Do you think of any way to bring positive energy to yourself?<br /><br />--------------------------------------------<br /><br />Session 2 : Inside the mind of a master procrastinator<br /><br /><!-- m --><a class="postlink" href="https://tw.voicetube.com/videos/44885">https://tw.voicetube.com/videos/44885</a><!-- m --><br /><br />Tim Urban: Inside the mind of a master procrastinator | TED<br />Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.<br /><br />Questions:<br />1.Are you a procrastinator? Or are you a rational decision maker?<br /><br />2.Do you have any example for procrastination?<br /><br />3.Do you have any suggestions for improving procrastination?<br /><br />4.The speaker mentioned that there is no deadline for seeing your family, exercising and taking care of your healthy. So it is difficult to notice this long term kind of procrastination, do you have any solution to it?<p>Statistics: Posted by <a href="http://www.royalclub.tw/bbs3/memberlist.php?mode=viewprofile&amp;u=46353">Ellen Lu</a> — Wed Apr 06, 2022 5:23 pm</p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=420" />
+
+<title>Royal English Club-英文讀書會</title>
+<subtitle>輕鬆學習! 放鬆學習! 結交朋友!</subtitle>
+<link href="http://www.royalclub.tw/bbs3/index.php" />
+<updated>2020-08-14T09:04:09+08:00</updated>
+
+<author><name><![CDATA[Royal English Club-英文讀書會]]></name></author>
+<id>http://www.royalclub.tw/bbs3/feed.php?f=3&amp;t=420</id>
+<entry>
+<author><name><![CDATA[Michael]]></name></author>
+<updated>2020-08-14T09:04:09+08:00</updated>
+<published>2020-08-14T09:04:09+08:00</published>
+<id>http://www.royalclub.tw/bbs3/viewtopic.php?t=420&amp;p=438#p438</id>
+<link href="http://www.royalclub.tw/bbs3/viewtopic.php?t=420&amp;p=438#p438"/>
+<title type="html"><![CDATA[8/20 (Thu.) 20 Comfort Foods From Around The World / Taiwan ranks 2nd safest country in world (Host: Cammy)]]></title>
+
+<content type="html" xml:base="http://www.royalclub.tw/bbs3/viewtopic.php?t=420&amp;p=438#p438"><![CDATA[
+<span style="color: #FF0000">Thursday gathering of Royal Club is relocated to Ikari 怡客咖啡, 台北市衡陽路116號</span><br /><br />Session I: 20 Comfort Foods From Around The World<br /><br /><!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=T4NOt727wqI&amp;feature=youtu.be">https://www.youtube.com/watch?v=T4NOt72 ... e=youtu.be</a><!-- m --><br /><!-- m --><a class="postlink" href="https://en.m.wikipedia.org/wiki/Comfort_food">https://en.m.wikipedia.org/wiki/Comfort_food</a><!-- m --><br /><br />When we feel tired, sad, or angry, we usually rely on different things to ease our negative emotions out of our system. One of the most common ways to relieve tension is through eating, and most of us have our own comfort food. If you’re looking for something new to eat, please watch this video of twenty different comfort foods around the globe!<br /><br />Questions:<br />1.    Comfort food is food that provides a nostalgic or sentimental value to someone, and may be characterized by its high caloric nature, high carbohydrate level, or simple preparation. The nostalgia may be specific to an individual, or it may apply to a specific culture. What do you think of the advantages and disadvantages of comfort food?<br />2.    Which country of comfort food let you feel a distinctive pleasure or temporary sense of emotional elevation and relaxation from this video? Why?<br />3.    What kind of comfort food has made you the most unforgettable during your growth? Have you ever cooked or had the comfort food on a special day? Please share its characteristics and special meaning or story?<br />4.    When you have been to which countries, which local dishes, deserts, sweets or snacks as comfort food impressed you? Why? Also, please show the photo with your table members if available?<br /><br />---------------------------------------------------------------------------------------------------------------------------------------<br /><br />Session II: Taiwan ranks 2nd safest country in world<br /><br /><!-- m --><a class="postlink" href="https://www.taiwannews.com.tw/en/news/3965611">https://www.taiwannews.com.tw/en/news/3965611</a><!-- m --><br /><!-- m --><a class="postlink" href="https://www.travelsafe-abroad.com/taiwan/">https://www.travelsafe-abroad.com/taiwan/</a><!-- m --><br /><br />Questions:<br />1.    In the recent report published by the site, Taiwan was given a safety index score of 84.74 points and a crime index score of 15.26, which together form a sum of 100. Taiwan ranks 2nd safest country in world in 133 countries. What aspects of your living experience do you think Taiwan is safer than other countries? Why?<br />2.    The report showed that 94.63 percent of the residents in Taiwan feel safe walking alone during the day and 86.42 at night. Do you agree with the report? Why or Why not?<br />3.    What aspects of Taiwan do you think to improve if compared with other developed countries? Please share your experiences on driving problems, scams risk, pickpocket risk…etc. in Taiwan during your growing up life.<br />4.    If a foreign friend wants to travel to Taiwan, what useful information will you provide to him/her? After that, if the foreign friend would like to immigrate to Taiwan for retirement, which city would you recommend living in? Which city would you not recommend? Why?<p>Statistics: Posted by <a href="http://www.royalclub.tw/bbs3/memberlist.php?mode=viewprofile&amp;u=25437">Michael</a> — Fri Aug 14, 2020 9:04 am</p><hr />
+]]></content>
+</entry>
+</feed>
